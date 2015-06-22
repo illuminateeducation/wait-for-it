@@ -1,0 +1,20 @@
+{
+  "name": "wait-for-it",
+  "version": "0.1.0",
+  "description": "",
+  "main": "wait-for-it.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jscs": "^1.13.1",
+    "jshint": "^2.8.0"
+  },
+  "scripts": {
+    "lint": "jshint *.js && jscs *.js"
+  },
+  "author": {
+    "name": "Zachary Rankin",
+    "email": "npm@zacharyrankin.com",
+    "url": "https://github.com/zacharyrankin"
+  },
+  "license": "MIT"
+}
