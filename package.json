@@ -1,8 +1,9 @@
 {
   "name": "wait-for-it",
   "version": "0.1.0",
-  "description": "",
-  "main": "wait-for-it.js",
+  "description": "Utility for creating efficient auto-save features.",
+  "repository": "zacharyrankin/wait-for-it",
+  "main": "wait-for-it",
   "dependencies": {},
   "devDependencies": {
     "jscs": "^1.13.1",
