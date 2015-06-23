@@ -1,4 +1,4 @@
-# wait-for-it
+# wait-for-it [![Build Status](https://travis-ci.org/zacharyrankin/wait-for-it.svg?branch=master)](https://travis-ci.org/zacharyrankin/wait-for-it)
 
 Utility for creating efficient auto-save features.
 
