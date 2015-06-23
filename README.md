@@ -18,5 +18,3 @@ waitForIt.push({more: 'new data'});
 ```
 
 # Testing
-
-https://ci.testling.com/zacharyrankin/wait-for-it
