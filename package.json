@@ -1,6 +1,6 @@
 {
-  "name": "wait-for-it",
-  "version": "0.1.0",
+  "name": "@zacharyrankin/wait-for-it",
+  "version": "1.0.0",
   "description": "Utility for creating efficient auto-save features.",
   "repository": "zacharyrankin/wait-for-it",
   "main": "wait-for-it",
